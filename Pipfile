@@ -13,4 +13,5 @@ numpy = "*"
 python_version = "3.7"
 
 [scripts]
-test = "python3 test1.py"
+dtw = "python3 test-dtw.py"
+voronoi = "python3 test-voronoi.py"
